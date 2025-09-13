@@ -18,15 +18,6 @@ Frontal empowers modern teams and developers to build custom apps, automate work
 
 Explore our [documentation](https://frontal.dev/developer) for detailed guides and setup instructions.
 
-## Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Discuss changes via [Frontal Community](https://frontal.dev/community) before submitting a Pull Request.
-2. Read our [Code of Conduct](./CODE_OF_CONDUCT.md) and [Contributing Guidelines](./CONTRIBUTING.md).
-3. Fork the repository, create a feature branch, and make your changes.
-4. Submit a Pull Request for review.
-
 ## Support
 
 - **Slack**: [Frontal HQ](https://join.slack.com/t/frontal-hq/shared_invite/zt-3cg6de104-Zl3DwFCkHme9SpZpxQmPHQ);
