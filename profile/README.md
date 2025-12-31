@@ -20,5 +20,5 @@ Explore our [documentation](https://developers.frontal.dev) for detailed guides 
 
 ## Support
 
-- **Slack**: [Frontal HQ](https://join.slack.com/t/frontal-hq/shared_invite/zt-3cg6de104-Zl3DwFCkHme9SpZpxQmPHQ);
+- **Help**: [Check help center](https://help.frontal.dev);
 - **Community**: Join the [Frontal Community](https://join.slack.com/t/frontal-community/shared_invite/zt-37vzd191x-KlvQUjTQh6nEpYMAJhAN8g)
