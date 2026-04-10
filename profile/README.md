@@ -1,24 +1,36 @@
-# Frontal Labs
+<picture>
+  <source srcset="./banner-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./banner.png" media="(prefers-color-scheme: light)">
+  <img src="./banner-dark.png" alt="Frontal Banner">
+</picture>
 
-Frontal is building the future of intelligent software. Our AI platform enables teams to create flexible, fast, and secure applications, agents, and internal tools, allowing you to focus on your product instead of infrastructure.
+# Frontal
+
+**The AI-native operating platform.**
+
+Frontal unifies your operational data into a semantic layer and gives you a programmable execution plane where AI agents, workflows, and humans work together seamlessly.
+
+It turns AI from a helpful assistant into a reliable, auditable operator — so you can automate decisions, run internal operations, and build tools from a single control plane.
 
 ## Why Frontal?
 
-Frontal empowers modern teams and developers to build custom apps, automate workflows, and create intelligent agents that integrate seamlessly with your systems and data. Designed for scalability and the AI era, Frontal delivers rapid execution and full control.
+- Stop struggling with fragmented systems and manual processes
+- Build and run intelligent agents that actually execute work
+- Automate complex workflows with full control and safety
+- Create custom tools and apps faster than ever
 
 ## Key Features
 
-- **Custom Apps**: Build tailored applications for your team's needs.
-- **Intelligent Agents**: Create agents that adapt to your data and systems.
-- **Workflow Automation**: Streamline processes with flexible, AI-driven workflows.
-- **Security & Scalability**: Stay secure and scale effortlessly.
-- **Developer-Friendly**: Built for modern teams with robust tooling.
+- Semantic data layer across all your systems
+- Programmable execution plane for agents and workflows
+- AI agents that act as first-class operators
+- Built-in security, auditability, and governance
+- Dynamic tool and workflow generation
 
 ## Documentation
 
-Explore our [documentation](https://developers.frontal.dev) for detailed guides and setup instructions.
+→ [developers.frontal.dev](https://developers.frontal.dev)
 
-## Support
+## Community
 
-- **Help**: [Check help center](https://help.frontal.dev);
-- **Community**: Join the [Frontal Community](https://join.slack.com/t/frontal-community/shared_invite/zt-37vzd191x-KlvQUjTQh6nEpYMAJhAN8g)
+Join the [Frontal Community Slack](https://join.slack.com/t/frontal-community/shared_invite/zt-37vzd191x-KlvQUjTQh6nEpYMAJhAN8g)
