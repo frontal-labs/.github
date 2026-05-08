@@ -1,36 +1,21 @@
-<picture>
-  <source srcset="./banner-dark.png" media="(prefers-color-scheme: dark)">
-  <source srcset="./banner.png" media="(prefers-color-scheme: light)">
-  <img src="./banner-dark.png" alt="Frontal Banner">
-</picture>
+<div align="center">
+  <picture>
+    <source srcset="./banner-dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="./banner.png" media="(prefers-color-scheme: light)">
+    <img src="./banner.png" alt="Frontal Banner">
+  </picture>
 
-# Frontal
+  <p>
+    <a href="https://join.slack.com/t/frontal-community/shared_invite/zt-37vzd191x-KlvQUjTQh6nEpYMAJhAN8g">Slack</a>
+    ·
+    <a href="https://frontal.dev">Website</a>
+  </p>
+</div>
 
-**The AI-native operating platform.**
+## Frontal
 
-Frontal unifies your operational data into a semantic layer and gives you a programmable execution plane where AI agents, workflows, and humans work together seamlessly.
+**Building Intelligent Systems for the Modern Enterprise**
 
-It turns AI from a helpful assistant into a reliable, auditable operator — so you can automate decisions, run internal operations, and build tools from a single control plane.
+Frontal is an operational intelligence platform that unifies enterprise systems into a shared semantic and execution layer. It enables AI agents, workflows, and humans to operate on the same contextual infrastructure — with traceability, governance, and real execution capabilities built in.
 
-## Why Frontal?
-
-- Stop struggling with fragmented systems and manual processes
-- Build and run intelligent agents that actually execute work
-- Automate complex workflows with full control and safety
-- Create custom tools and apps faster than ever
-
-## Key Features
-
-- Semantic data layer across all your systems
-- Programmable execution plane for agents and workflows
-- AI agents that act as first-class operators
-- Built-in security, auditability, and governance
-- Dynamic tool and workflow generation
-
-## Documentation
-
-→ [developers.frontal.dev](https://developers.frontal.dev)
-
-## Community
-
-Join the [Frontal Community Slack](https://join.slack.com/t/frontal-community/shared_invite/zt-37vzd191x-KlvQUjTQh6nEpYMAJhAN8g)
+Instead of isolated copilots and fragmented automations, Frontal provides a programmable control plane for orchestrating operations, automating decisions, and building internal AI-native systems across the organization.
